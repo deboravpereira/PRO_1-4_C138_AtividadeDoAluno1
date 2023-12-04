@@ -56,6 +56,12 @@ stem_words, classes = create_bot_corpus(stem_words,classes)
 print(stem_words)
 print(classes)
 
+#Dados de treinamento
+
+#Número de tags
+
+#Array com tags correspondentes às frases.
+
 # Crie um saco de palavras 
 
 # Crie os dados de treinamento
