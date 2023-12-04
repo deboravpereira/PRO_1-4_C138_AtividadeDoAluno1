@@ -10,6 +10,14 @@
                   "Ate a proxima"],
      "responses": ["Nos vemos!", "Tenha um otimo dia", "Tchau! Volte logo.",
                    "Tenha um excelente dia"]            
+    },
+     {"tag": "agradecimento",
+     "patterns": [" "],
+     "responses": ["Não há de quê!", "Disponha sempre que precisar!", "Imagina! Foi um prazer te ajudar","Estamos às ordens!"]            
+    },
+    {"tag": "sem_resposta",
+     "patterns": [" "],
+     "responses": ["Desculpe, não consegui entender você", "Por favor, dê-me mais informações","Acho que não entendi"]            
     }
   ]
 }
